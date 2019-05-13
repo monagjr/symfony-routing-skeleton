@@ -14,3 +14,5 @@ Scafolding the application using this method saves time, and also avoids many of
 **Annotation** has been installed using `composer req annotations`
 
 ---
+
+**Base Controller** `BaseController` is used as the base / parent for other controllers. And it contains any common code across controllers.
