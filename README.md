@@ -16,3 +16,7 @@ Scafolding the application using this method saves time, and also avoids many of
 ---
 
 **Base Controller** `BaseController` is used as the base / parent for other controllers. And it contains any common code across controllers.
+
+---
+
+**Blade Template Engine Installation** using `composer req eftec/bladeone`
